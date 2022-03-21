@@ -8,11 +8,17 @@ The app is also able to filter the data by Start date and end date
 Usage
 
 Use data file provided with two columns either comma or space separated.
-The first column(dates) is your labels, the second column is a numeric data
+The first column(dates) is your labels, the second column is a numeric data of active users
 
 termgraph [datafile]
 
 Help: termgraph -h 
+
+usage: termgraph.py [-h] [(optional arguments)] [filename]
+
+positional arguments:
+  filename              data file name (comma or space separated)
+  
 ## Requirements
 
 This project manages its dependencies using pip
