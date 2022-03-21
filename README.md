@@ -18,6 +18,10 @@ usage: termgraph.py [-h] [(optional arguments)] [filename]
 
 positional arguments:
   filename              data file name (comma or space separated)
+   arguments:
+     --calendar            Calendar Heatmap chart
+    --start-dt START_DT   Start date for Calendar chart
+
   
 ## Requirements
 
