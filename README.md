@@ -1,4 +1,4 @@
-# cli-coding-challenge
+# CLI Application
 
 ## Requirements
 
